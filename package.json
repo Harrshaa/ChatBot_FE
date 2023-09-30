@@ -2,7 +2,7 @@
   "name": "chatbot_fe_happilyever",
   "version": "1.0.0",
   "description": "Single Page React-Redux Application",
-  "main": "index.js",
+ 
   "scripts": {
     "start":"parcel index.html", 
     "build":"parcel build index.html",
